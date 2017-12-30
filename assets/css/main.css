@@ -1942,7 +1942,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #f32853;
+			background-color: #6c6c6c;
 			color: #ffffff !important;
 		}
 
@@ -1951,7 +1951,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f44066;
+				background-color: #6c6c6c;
 			}
 
 			input[type="submit"].special:active,
@@ -1959,7 +1959,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f21040;
+				background-color: #6c6c6c;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -3090,8 +3090,8 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/ten.jpg");
-		background-position: center top;
+		background-image: url("images/overlay.png"), url("../../images/nice.jpg");
+		background-position: center bottom;
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;

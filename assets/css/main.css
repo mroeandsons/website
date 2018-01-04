@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700);
 
 /*
 	Spatial by TEMPLATED
@@ -1602,8 +1603,8 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Raleway", Arial, Helvetica, sans-serif;
-		font-size: 13pt;
+        font-family: 'Alegreya', serif;
+		font-size: 15pt;
 		font-weight: 400;
 		line-height: 2em;
 	}
@@ -1830,7 +1831,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #3e3c45;
+			background-color: #3900ff;
 		}
 
 		input[type="submit"]:active,
@@ -1942,7 +1943,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #6c6c6c;
+			background-color: #b9a48c;
 			color: #ffffff !important;
 		}
 
@@ -1951,7 +1952,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #6c6c6c;
+				background-color: #cb3838;
 			}
 
 			input[type="submit"].special:active,
@@ -1959,7 +1960,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #6c6c6c;
+				background-color: #cb3838;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -3090,8 +3091,8 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/nice.jpg");
-		background-position: center bottom;
+		background-image: url("images/overlay.png"), url("../../images/hikitchen1.jpg");
+		background-position: center middle;
 		background-size: cover;
 		line-height: 1.75;
 		text-align: center;

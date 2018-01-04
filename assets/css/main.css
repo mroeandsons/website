@@ -1,6 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
-@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700);
+@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,700);
 
 /*
 	Spatial by TEMPLATED
@@ -1603,8 +1603,8 @@
 	}
 
 	body, input, select, textarea {
-        font-family: 'Alegreya', serif;
-		font-size: 15pt;
+        font-family: 'Cormorant Garamond', serif;		
+        font-size: 15pt;
 		font-weight: 400;
 		line-height: 2em;
 	}
@@ -1612,7 +1612,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 1pt;
 			}
 
 		}
@@ -1620,7 +1620,7 @@
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		}

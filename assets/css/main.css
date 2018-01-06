@@ -2757,6 +2757,53 @@
 
 				}
 
+
+		.wrapper.style31 {
+			background-attachment: fixed;
+			background-image: url("images/overlay.png"), url("../../images/hikitchen1.jpg");
+			background-position: center center;
+			background-size: cover;
+		}
+
+			.wrapper.style31 header.major {
+				margin-bottom: 3em;
+			}
+
+				.wrapper.style31 header.major h2 {
+					color: #ffffff;
+				}
+
+				@media screen and (max-width: 1280px) {
+
+					.wrapper.style31 header.major {
+						margin-bottom: 2em;
+					}
+
+				}
+
+		.wrapper.style32 {
+			background-attachment: fixed;
+			background-color: beige;
+			background-position: center center;
+			background-size: cover;
+		}
+
+			.wrapper.style32 header.major {
+				margin-bottom: 3em;
+			}
+
+				.wrapper.style32 header.major h2 {
+					color: #ffffff;
+				}
+
+				@media screen and (max-width: 1280px) {
+
+					.wrapper.style32 header.major {
+						margin-bottom: 2em;
+					}
+
+				}
+
 		@media screen and (max-width: 980px) {
 
 			.wrapper {
